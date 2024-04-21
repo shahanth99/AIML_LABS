@@ -8,3 +8,4 @@
 [https://github.com/shahanth99/AIML_LABS/blob/main/Lab07_SVM.ipynb]
 [https://github.com/shahanth99/AIML_LABS/blob/main/Assignment08.ipynb]
 [https://github.com/shahanth99/AIML_LABS/blob/main/Assignment09.ipynb]
+[https://github.com/shahanth99/AIML_LABS/blob/main/Assigment_10.ipynb]
